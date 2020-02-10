@@ -2,5 +2,4 @@
 # (try doing the same thing in the JS console and see what it outputs)
 
 # YOUR CODE HERE
-for x in range(2, 65536):
-    print(x ^ 2)
+print(pow(2, 65536))
